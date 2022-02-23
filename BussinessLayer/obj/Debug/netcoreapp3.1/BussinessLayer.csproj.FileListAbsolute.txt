@@ -1,0 +1,10 @@
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Semana 6 (Despues del Primer Parcial)\AppPrestamos\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
